@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
-
+//Add a comment
 typedef struct arrayADT{
     int capacity;
     int lastIndex;
